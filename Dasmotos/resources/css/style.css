@@ -1,0 +1,38 @@
+.price {
+	font-family: helvetica;
+	font-weight: bold;
+	color: blue;
+}
+
+.brush {
+	background-image: linear-gradient(to bottom right, mediumspringgreen, lightblue, darkviolet);
+}
+
+.frame {
+	background-image: linear-gradient(to bottom right, lightcoral, red);
+}
+
+.paint {
+	background-image: linear-gradient(to bottom right, skyblue, cyan);
+}
+
+h1 {
+	font-family: helvetica;
+	font-size: 100px;
+	font-weight: bold;
+	color: khaki;
+	background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg);
+	text-align: center;
+}
+
+h2 {
+	font-family: helvetica;
+	font-size: 48px;
+	font-weight: bold;
+	text-align: center;
+	color: white;
+}
+
+h3, p {
+	font-family: helvetica;
+}
